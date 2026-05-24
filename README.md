@@ -31,13 +31,13 @@ The project includes three main interfaces (Menu, Order Now, About Us), in addit
 ![Main Screen](screenshots/MainScreen.PNG)
 
 **Menu**
-![Menu](screenshots/Menu.png)
+![Menu](screenshots/Menu.PNG)
 
 **Order Now**
-![Order Now](screenshots/OrderNow.png)
+![Order Now](screenshots/OrderNow.PNG)
 
 **Bill**
-![Bill](screenshots/Bill.png)
+![Bill](screenshots/Bill.PNG)
 
 **About Us**
-![About Us](screenshots/AboutUs.png)
+![About Us](screenshots/AboutUs.PNG)
