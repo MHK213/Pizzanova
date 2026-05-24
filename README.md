@@ -28,7 +28,7 @@ The project includes three main interfaces (Menu, Order Now, About Us), in addit
 ## Screenshots
 
 **Main Screen**
-![Main Screen](screenshots/MainScreen.png)
+![Main Screen](screenshots/MainScreen.PNG)
 
 **Menu**
 ![Menu](screenshots/Menu.png)
