@@ -25,3 +25,19 @@ The project includes three main interfaces (Menu, Order Now, About Us), in addit
 | **Bill Display** | View final bill and total |
 | **About Us** | Information about Pizzanova |
 
+## Screenshots
+
+**Main Screen**
+![Main Screen](screenshots/main.png)
+
+**Menu**
+![Menu](screenshots/menu.png)
+
+**Order Now**
+![Order Now](screenshots/order.png)
+
+**Bill**
+![Bill](screenshots/bill.png)
+
+**About Us**
+![About Us](screenshots/about.png)
